@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @JSavriev
-- 👀 I’m interested in mobile development.
+- 👋 Hi, I’m Javokhir Savriev
+- 👀 I’m interested in mobile development
 - 🌱 I’m currently learning artificial intelligence
 - 💞️ I’m looking to collaborate on mobile development
 - 📫 How to reach me javokhirdev@gmail.com
