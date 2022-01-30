@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning KMM and English.
 - 💞️ I’m looking for help with Learn English.
 - 💬 Ask me about Android and Kotlin development.
-- 📫 How to reach me: [Email][1.3], [Telegram][1.1], [LinkedIn][1.2].
+- 📫 How to reach me: [Telegram][1.1], [LinkedIn][1.2].
 - ⚡ Fact about me: I'm muslim. I don’t know Russian.
 
 ### Languages and Tools
@@ -15,7 +15,6 @@
 
 [1.1]: https://www.t.me/sjavokhir/
 [1.2]: https://www.linkedin.com/in/sjavokhir/
-[1.3]: javokhirdev@gmail.com
 
 <!---
 JSavriev/JSavriev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
