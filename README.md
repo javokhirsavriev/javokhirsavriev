@@ -3,7 +3,7 @@
 - 📱 I’m Software Android Engineer.
 - 🤯 Developing for Android since 2017 (using Kotlin for last 2 years).
 - 🌱 I’m currently learning KMM and English.
-- 💞️ I’m looking for help with Learn English.
+- 🧔🏻 I’m looking for help with Learn English.
 - 💬 Ask me about Android and Kotlin development.
 - 📫 How to reach me: [Telegram][1.1], [LinkedIn][1.2].
 
