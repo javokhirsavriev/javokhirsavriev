@@ -1,18 +1,38 @@
-# Hi 👋, I'm Javokhir Savriev
+# Hi 👋, I'm Javokhir
 
 - 📱 I’m Software Android Engineer.
 - 🤯 Developing for Android since 2017.
-- 🌱 I’m currently learning KMM and English.
-- 💬 Ask me about Android and Kotlin development.
-- 📫 How to reach me: [Telegram][1.1], [LinkedIn][1.2].
+- 💻 Currently working on very cool projects.
+- 🌱 I’m currently learning KMM.
+- ✌🏻 Looking forward to collaborating with other developers.
+- 📫 I'm available to answer your questions related to programming on any platform. Just connect me :)
 
-### Languages and Tools
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/android/android-tile.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+## Connect me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javokhirsavriev&show_icons=true&theme=dracula&count_private=true&locale=en" alt="javokhirsavriev" /></p>
+<a href="https://www.linkedin.com/in/sjavokhir/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;
+<a href="mailto:javokhirdev@gmail.com">
+  <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;
+<a href="https://telegram.me/sjavokhir">
+  <img src="https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />    
+</a>&nbsp;
+<a href="https://www.facebook.com/sjavokhir">
+  <img src="https://img.shields.io/badge/facebook-3B5998?style=for-the-badge&logo=facebook&logoColor=white" />    
+</a>&nbsp;
 
-[1.1]: https://www.t.me/sjavokhir/
-[1.2]: https://www.linkedin.com/in/sjavokhir/
+## Languages and Tools
+<img  src="https://img.shields.io/badge/Android-4CAF50?style=for-the-badge&logo=android&logoColor=white">&nbsp;
+<img  src="https://img.shields.io/badge/Kotlin-8382E3?style=for-the-badge&logo=kotlin&logoColor=white">&nbsp;
+<img  src="https://img.shields.io/badge/Java-E56F08?style=for-the-badge&logo=java&logoColor=white">&nbsp;
+<img  src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white">&nbsp;
+
+## GitHub stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=javokhirsavriev&count_private=true&show_icons=true&theme=tokyonight" />&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=javokhirsavriev&theme=tokyonight" />&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javokhirsavriev&layout=compact&theme=tokyonight&langs_count=10&hide=html,purebasic,scss,css" />
 
 <!---
 JSavriev/JSavriev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
