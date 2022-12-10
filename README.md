@@ -1,10 +1,9 @@
 # Hi 👋, I'm Javokhir
 
-- 📱 I’m Software Android Engineer.
-- 🤯 Developing for Android since 2017.
+- 📱 I’m Mobile Software Engineer.
+- 🤯 Developing for Android since 2020 and iOS since 2022.
 - 💻 Currently working on very cool projects.
-- 🌱 I’m currently learning KMM.
-- ✌🏻 Looking forward to collaborating with other developers.
+- 🌱 I’m currently learning iOS and KMM.
 - 📫 I'm available to answer your questions related to programming on any platform. Just connect me :)
 
 ## Connect me
@@ -18,15 +17,12 @@
 <a href="https://telegram.me/sjavokhir">
   <img src="https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />    
 </a>&nbsp;
-<a href="https://www.facebook.com/sjavokhir">
-  <img src="https://img.shields.io/badge/facebook-3B5998?style=for-the-badge&logo=facebook&logoColor=white" />    
-</a>&nbsp;
 
 ## Languages and Tools
 <img  src="https://img.shields.io/badge/Android-4CAF50?style=for-the-badge&logo=android&logoColor=white">&nbsp;
 <img  src="https://img.shields.io/badge/Kotlin-8382E3?style=for-the-badge&logo=kotlin&logoColor=white">&nbsp;
-<img  src="https://img.shields.io/badge/Java-E56F08?style=for-the-badge&logo=java&logoColor=white">&nbsp;
-<img  src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white">&nbsp;
+<img  src="https://img.shields.io/badge/iOS-727272?style=for-the-badge&logo=ios&logoColor=white">&nbsp;
+<img  src="https://img.shields.io/badge/Swift-DE5D43?style=for-the-badge&logo=swift&logoColor=white">&nbsp;
 
 ## GitHub stats
 
