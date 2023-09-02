@@ -1,9 +1,9 @@
 # Hi 👋, I'm Javokhir
 
 - 📱 I’m Mobile Software Engineer.
-- 🤯 Developing for Android since 2020 and iOS since 2022.
+- 🤯 Developing for Android since 2020 and iOS since 2023.
 - 💻 Currently working on very cool projects.
-- 🌱 I’m currently learning iOS and KMM.
+- 🌱 I’m currently learning iOS and KMP.
 - 📫 I'm available to answer your questions related to programming on any platform. Just connect me :)
 
 ## Connect me
