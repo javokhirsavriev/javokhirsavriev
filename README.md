@@ -1,9 +1,8 @@
-# Hi 👋, I'm Javokhir
+# Hi 👋, I'm Javohir Savriy
 
 - 📱 I’m Mobile Software Engineer.
-- 🤯 Developing for Android since 2020 and iOS since 2023.
+- 🤯 Developing for Android since 2020 and KMP since 2022.
 - 💻 Currently working on very cool projects.
-- 🌱 I’m currently learning iOS and KMP.
 - 📫 I'm available to answer your questions related to programming on any platform. Just connect me :)
 
 ## Connect me
@@ -24,13 +23,8 @@
 <img  src="https://img.shields.io/badge/iOS-727272?style=for-the-badge&logo=ios&logoColor=white">&nbsp;
 <img  src="https://img.shields.io/badge/Swift-DE5D43?style=for-the-badge&logo=swift&logoColor=white">&nbsp;
 
-<!-- ## GitHub stats
+## GitHub stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=javokhirsavriev&count_private=true&show_icons=true&theme=tokyonight" />&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=javokhirsavriev&theme=tokyonight" />&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javokhirsavriev&layout=compact&theme=tokyonight&langs_count=10&hide=html,purebasic,scss,css" /> -->
-
-<!---
-JSavriev/JSavriev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javokhirsavriev&layout=compact&theme=tokyonight&langs_count=10&hide=html,purebasic,scss,css" />
