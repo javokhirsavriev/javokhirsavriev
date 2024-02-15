@@ -22,9 +22,3 @@
 <img  src="https://img.shields.io/badge/Kotlin-8382E3?style=for-the-badge&logo=kotlin&logoColor=white">&nbsp;
 <img  src="https://img.shields.io/badge/iOS-727272?style=for-the-badge&logo=ios&logoColor=white">&nbsp;
 <img  src="https://img.shields.io/badge/Swift-DE5D43?style=for-the-badge&logo=swift&logoColor=white">&nbsp;
-
-## GitHub stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=javokhirsavriev&count_private=true&show_icons=true&theme=tokyonight" />&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=javokhirsavriev&theme=tokyonight" />&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javokhirsavriev&layout=compact&theme=tokyonight&langs_count=10&hide=html,purebasic,scss,css" />
