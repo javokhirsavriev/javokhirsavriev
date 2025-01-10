@@ -29,4 +29,3 @@
 
 ## Github Status
 
-<a href="https://github.com/sjavokhir"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=sjavokhir&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
