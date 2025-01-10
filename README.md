@@ -5,7 +5,6 @@
 - 💻 Currently working on very cool projects.
 - 📫 I'm available to answer your questions related to programming on any platform. Just connect me :)
 
-<a href="https://github.com/sjavokhir"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=sjavokhir&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
 
 ## Connect me
 
@@ -19,8 +18,15 @@
   <img src="https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />    
 </a>&nbsp;
 
+
 ## Languages and Tools
+
 <img  src="https://img.shields.io/badge/Android-4CAF50?style=for-the-badge&logo=android&logoColor=white">&nbsp;
 <img  src="https://img.shields.io/badge/Kotlin-8382E3?style=for-the-badge&logo=kotlin&logoColor=white">&nbsp;
 <img  src="https://img.shields.io/badge/iOS-727272?style=for-the-badge&logo=ios&logoColor=white">&nbsp;
 <img  src="https://img.shields.io/badge/Swift-DE5D43?style=for-the-badge&logo=swift&logoColor=white">&nbsp;
+
+
+## Github Status
+
+<a href="https://github.com/sjavokhir"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=sjavokhir&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
