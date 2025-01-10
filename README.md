@@ -5,6 +5,8 @@
 - 💻 Currently working on very cool projects.
 - 📫 I'm available to answer your questions related to programming on any platform. Just connect me :)
 
+<a href="https://github.com/sjavokhir"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=sjavokhir&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
+
 ## Connect me
 
 <a href="https://www.linkedin.com/in/sjavokhir/">
